@@ -1,0 +1,27 @@
+SBI LOGIN:
+USER NAME:indrareddy143
+PASSWORD:sahasra52
+PROFILE PASSWORD:INDRASENA143@
+
+COMPANY:Infogain
+Project name:Saber "airport related project"
+
+git main URL:https://github.com/indrareddy834/indrareddy834/tree/master
+
+git repository URL:https://github.com/indrareddy834/indrareddy834.git
+
+TOKEN: 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 
+
+pipeline
+{
+stages
+{
+ steps
+ {
+ 
+ DOckerfile
+ 
+ FROM:ubuntu
+ RUN :apt-get update -y
+ RUN :apt-get install python -y
+ 
